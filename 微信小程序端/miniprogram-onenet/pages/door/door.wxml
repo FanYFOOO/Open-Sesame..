@@ -1,0 +1,5 @@
+<canvas class = "canvas" id="chart1"
+canvas-id="number"></canvas>
+<view class="pos">1:开门成功</view>
+<view class="pos">0:开门失败</view>
+

@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="intro">
+ 欢迎使用芝麻开门
+</view>
+
+<button class="btn1" bindtap="navigate">点击查看开门记录</button>
